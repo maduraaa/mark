@@ -1,0 +1,15 @@
+.box{
+   background-image: url(../img/firs-page-background.png);
+   background-color: white;
+   height: 1280px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.bgm{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+  
