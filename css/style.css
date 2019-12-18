@@ -28,4 +28,10 @@
 .social-li:first-child{
     margin-top: 5%;
 }
+.social-a{
+    color: #7F7F7F;    
+}
+.social-a:hover{
+    color: #D63C37;
+}
   
