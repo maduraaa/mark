@@ -1,39 +1,13 @@
 .box{
    background-image: url(../img/firs-page-background.png);
    background-color: white;
-   height: 1280px;
+   height: 800px;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
    position: relative;
 }
-/* .burger-menu{
-    position: absolute;
-    margin-top: 2%;
-    margin-left: 95%;
-}
-.bgm{
-    width: 35px;
-    height: 5px;
-    background-color: black;
-    margin: 6px 0;
-}
-.social-li{
-    display: block;
-    color: #7F7F7F;
-    font-size: 20px;
-    padding-top: 30px;
-    padding-left: 22%;
-}
-.social-li:first-child{
-    margin-top: 5%;
-}
-.social-a{
-    color: #7F7F7F;    
-}
-.social-a:hover{
-    color: #D63C37;
-} */
+/* burger menu */
 .movi-size{
     margin-left: 95%;
     margin-top: 2%;
@@ -83,3 +57,34 @@
 }
 .dropdown a:hover {}
 .show {display: block;}
+
+/* burger menu */
+
+.text1{
+    position: absolute;
+    bottom: 45%;
+    left: 19%;
+    font-size: 48px;
+    align-items: center;
+}
+.text2{
+    color: #D63C37;
+}
+.text3{
+    position: absolute;
+    font-size: 18px;
+    bottom: 35%;
+    left: 12%;
+}
+.text4{
+    position: absolute;
+    font-size: 18px;
+    bottom: 31%;
+    left: 12%;
+}
+.text5{
+    position: absolute;
+    font-size: 18px;
+    bottom: 27%;
+    left: 45.5%;
+}
