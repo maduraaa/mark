@@ -34,6 +34,10 @@
 .social-a:hover{
     color: #D63C37;
 } */
+.movi-size{
+    margin-left: 95%;
+    margin-top: 2%;
+}
 .dropbtn {
     background-color: #3498DB;
     font-size: 16px;
@@ -46,6 +50,17 @@
     background-color: black;
     margin: 2px 0;
 } 
+.icon-size{
+    margin-left: 4px;
+    color: #7F7F7F;
+    margin-top: 20px;
+}
+.icon-size:hover{
+    color: #D63C37;
+}
+.icon-size:nth-child(2){
+    margin-left: 6px;
+}
 .dropdown {
     position: relative;
     display: inline-block;
@@ -65,5 +80,5 @@
     text-decoration: none;
     display: block;
 }
-.dropdown a:hover {background-color: #ddd;}
+.dropdown a:hover {}
 .show {display: block;}
