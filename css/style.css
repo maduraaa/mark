@@ -88,3 +88,65 @@
     bottom: 27%;
     left: 45.5%;
 }
+/* page2 */
+.page2photo{
+    margin-top: 250px;
+    height: 700px;
+    margin-left: 150px;
+}
+.text-title{
+    font-size: 36px;
+    color: #333333;
+}
+.text-title-red{
+    color: #D63C37;
+    text-decoration: underline;
+}
+.page2-text1{
+    font-size: 18px;
+    width: 450px;
+    color: #666666;
+    margin-top: 50px;
+    margin-left: 100px;
+    line-height: 28px;
+}
+.far{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: #D63C37;
+}
+.page2-icon-star-text{
+    color: #D63C37;
+    font-size: 18px;
+    margin-left: 28px;
+    }
+.page2-text2{
+    font-size: 18px;
+    width: 450px;
+    color: #666666;
+    margin-left: 100px;
+    line-height: 28px;
+    margin-top: 5px;
+} 
+.page2-icon-star-text2{
+    color: #D63C37;
+    font-size: 18px;
+    margin-left: 28px;
+}
+.page2-text3{
+    font-size: 18px;
+    width: 450px;
+    color: #666666;
+    margin-left: 100px;
+    line-height: 28px;
+    margin-top: 5px;
+}
+.page2-text{
+    float: right;
+    margin-top: 20px;
+    margin-right: 120px;
+}
+.page2photo{
+    float: left;
+}
+/* page2 */
