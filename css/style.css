@@ -150,3 +150,75 @@
     float: left;
 }
 /* page2 */
+
+/* page3 */
+.page3{
+    height: 900px;
+    background-color: #D63C37;
+    clear: both;
+}
+.page3-title{
+    font-size: 24px;
+    display: inline-block;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 242px;
+}
+.fa-gripfire{
+    border: 2px solid white;
+    border-radius: 50px;
+    font-size: 48px;
+    padding: 0px 6px 0px 6px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 40px;
+}
+.fa-gripfire:hover{
+    background-color: white;
+    color: #D63C37;
+    cursor: pointer;
+}
+.page3-more-text1{
+    width: 450px;
+    text-align: right;
+    font-size: 18px;
+    color: #3E3433;
+    line-height: 30px;
+}
+.change1{
+    margin-left: 203px;
+}
+.fa-cog{
+    border: 2px solid white;
+    border-radius: 50px;
+    font-size: 40px;
+    padding: 5px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 40px; 
+}
+.fa-cog:hover{
+    background-color: white;
+    color: #D63C37;
+    cursor: pointer;
+}
+.change2{
+    margin-left: 310px;
+}
+.fa-bolt{
+    border: 2px solid white;
+    border-radius: 50px;
+    font-size: 40px;
+    padding: 5px;
+    padding: 4px 12px 4px 11px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 40px; 
+}
+.fa-bolt:hover{
+    background-color: white;
+    color: #D63C37;
+    cursor: pointer;
+}
+/* page3 */
