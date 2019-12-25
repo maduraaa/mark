@@ -153,7 +153,7 @@
 
 /* page3 */
 .page3{
-    height: 900px;
+    height: 800px;
     background-color: #D63C37;
     clear: both;
 }
@@ -214,11 +214,72 @@
     padding: 4px 12px 4px 11px;
     margin-left: 20px;
     color: white;
-    margin-top: 40px; 
+    margin-top: 41px; 
 }
 .fa-bolt:hover{
     background-color: white;
     color: #D63C37;
     cursor: pointer;
+}
+.change3{
+    margin-left: 183px;
+}
+.fa-css3{
+    border: 2px solid white;
+    border-radius: 50px;
+    font-size: 39px;
+    padding: 5px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 40px; 
+}
+.fa-css3:hover{
+    background-color: white;
+    color: #D63C37;
+    cursor: pointer;
+}
+.fa-cloud{
+    border: 2px solid white;
+    border-radius: 50px;
+    font-size: 30px;
+    padding: 8px 5px 8px 5px;
+    margin-left: 20px;
+    color: white;
+    /* margin-top: 20px;  */
+}
+.fa-cloud:hover{
+    background-color: white;
+    color: #D63C37;
+    cursor: pointer;
+}
+.change4{
+    margin-left: 306px;
+}
+.box-1{
+    display: inline-block;
+}
+.flex-move{
+    display: flex;
+    justify-content: center;
+}
+.flex-move2{
+    display: flex;
+    justify-content: center;
+}
+.flex-move3{
+    margin-left: 50%;
+}
+.page3-title-forward{
+    font-size: 36px;
+    color: #333333;
+    margin-left: 39%;
+    margin-top: 20%px;
+}
+.loves{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.loves:hover{
+    color: white;
 }
 /* page3 */
