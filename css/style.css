@@ -59,39 +59,31 @@
 .show {display: block;}
 
 /* burger menu */
-
-.text1{
-    position: absolute;
-    bottom: 45%;
-    left: 19%;
-    font-size: 48px;
+.page1-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    padding-top: 350px;
 }
-.text2{
+.mark1{
     color: #D63C37;
 }
-.text3{
-    position: absolute;
-    font-size: 18px;
-    bottom: 35%;
-    left: 12%;
+.mark2{
+    color: #333333;
+    font-size: 48px;
+    margin-bottom: 50px;
 }
-.text4{
-    position: absolute;
+.mark3{
     font-size: 18px;
-    bottom: 31%;
-    left: 12%;
-}
-.text5{
-    position: absolute;
-    font-size: 18px;
-    bottom: 27%;
-    left: 45.5%;
+    color: #333333;
+    line-height: 35px;
 }
 /* page2 */
 .page2photo{
     margin-top: 250px;
     height: 700px;
+    display: table;
 }
 .text-title{
     font-size: 36px;
