@@ -92,7 +92,6 @@
 .page2photo{
     margin-top: 250px;
     height: 700px;
-    margin-left: 150px;
 }
 .text-title{
     font-size: 36px;
@@ -141,21 +140,27 @@
     line-height: 28px;
     margin-top: 5px;
 }
-.page2-text{
+.flex-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+/* .page2-text{
     float: right;
     margin-top: 20px;
     margin-right: 120px;
-}
-.page2photo{
+} */
+/* .page2photo{
     float: left;
-}
+} */
 /* page2 */
 
 /* page3 */
 .page3{
-    height: 800px;
+    height: 1000px;
     background-color: #D63C37;
-    clear: both;
+    box-sizing: border-box;
+    /* clear: both; */
 }
 .page3-title{
     font-size: 24px;
@@ -261,6 +266,7 @@
 .flex-move{
     display: flex;
     justify-content: center;
+    margin-top: 50px;
 }
 .flex-move2{
     display: flex;
@@ -272,8 +278,12 @@
 .page3-title-forward{
     font-size: 36px;
     color: #333333;
-    margin-left: 39%;
-    margin-top: 20%px;
+    margin-left: 44%;
+    padding-top: 150px;
+}
+.section1{
+    box-sizing: border-box;
+    background-color: #D63C37;
 }
 .loves{
     cursor: pointer;
