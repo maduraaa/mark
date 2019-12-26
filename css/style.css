@@ -1,6 +1,13 @@
 html{
     scroll-behavior:smooth ;
 }
+html::-webkit-scrollbar{
+    width: 5px;
+}
+html::-webkit-scrollbar-thumb{
+    background-color: #D63C37;
+    border-radius: 80px;
+}
 .box{
    background-image: url(../img/firs-page-background.png);
    background-color: white;
