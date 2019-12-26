@@ -1,3 +1,6 @@
+html{
+    scroll-behavior:smooth ;
+}
 .box{
    background-image: url(../img/firs-page-background.png);
    background-color: white;
@@ -283,5 +286,23 @@
 }
 .loves:hover{
     color: white;
+}
+.goupbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #ecf0f1;
+    bottom: 40px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: #D63C37;
+    font-size: 22px;
+    border-radius: 50px;
+}
+.goupbtn:hover{
+    color: white;
+    background-color: #D63C37;
 }
 /* page3 */
