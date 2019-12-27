@@ -74,7 +74,7 @@ html::-webkit-scrollbar-thumb{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 350px;
+    padding-top: 300px;
 }
 .mark1{
     color: #D63C37;
@@ -315,51 +315,60 @@ html::-webkit-scrollbar-thumb{
 /* page3 */
 
 /* more page */
+.new-section-text-box{
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 80px;
+}
 .new-text1{
-    font-size: 18px;
+    font-size: 20px;
     color: #666666;
 }
 .new-text2{
-    font-size: 36px;
+    font-size: 48px;
     margin-top: 40px;
     color: #D63C37;
 }
 .new-text3{
-    font-size: 18px;
+    font-size: 20px;
     margin-top: 40px;
     width: 600px;
     color: #666666;
+    line-height: 20px;
 }
 .new-text4{
     color: #D63C37; 
     font-size: 20px;
 }
 .new-text5{
-    font-size: 18px;
+    font-size: 20px;
     color: #666666;
     margin-top: 40px;
-    width: 300px;
+    width: 350px;
+    line-height: 20px;
 }
 .new-text6{
-    font-size: 18px;
+    font-size: 20px;
     color: #666666;
     margin-top: 40px;
     width: 600px;
+    line-height: 20px;
 }
 .new-text7{
     color: #D63C37;
     font-size: 20px;
 }
 .new-text8{
-    font-size: 18px;
+    font-size: 20px;
     color: #666666;
     margin-top: 40px;
 }
 .new-text9{
     margin-top: 40px;
-    font-size: 18px;
+    font-size: 20px;
     color: #666666;
     width: 600px;
+    line-height: 20px;
 }
 .new-text10{
     color: #D63C37;
@@ -409,5 +418,126 @@ html::-webkit-scrollbar-thumb{
     background-color: #D63C37;
     border-radius: 50px;
     padding: 5px 8px 5px 8px;
+}
+.photo-box-1{
+    height: 150px;
+    width: 150px;
+    background-color: #333333;
+    background-image: url(../img/new-section1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 37px;
+}
+.photo-box-2{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/new-section2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 37px;
+}
+.photo-box-3{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/new-section3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 37px;
+    margin-top: 30px;
+}
+.photo-box-4{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/new-section4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    display: inline-block;
+    margin-left: 37px;
+}
+.new-photo-box1{
+    width: 550px;
+    height: 410px;
+    box-sizing: border-box;
+}
+.new-h1{
+    font-size: 25px;
+    color: #666666;
+    padding-left: 37px;
+}
+.new-hr1{
+    border-top: 1px solid #D63C37;
+    width: 340px;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+.new-photo-box2{
+    width: 550px;
+    height: 410px;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+.new-h2{
+    font-size: 25px;
+    color: #666666;
+    padding-left: 37px;
+}
+.new-hr2{
+    border-top: 1px solid #D63C37;
+    width: 340px;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+.photo-box-5{
+    height: 150px;
+    width: 150px;
+    background-color: #333333;
+    background-image: url(../img/new-section5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 37px;
+}
+.photo-box-6{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/new-section6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 37px;
+}
+.photo-box-7{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/new-section7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 37px;
+    margin-top: 30px;
+}
+.photo-box-8{
+    height: 150px;
+    width: 150px;
+    background-image: url(../img/new-section8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    display: inline-block;
+    margin-left: 37px; 
+}
+.photo-section{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.new-section-flex-move{
+    display: flex;
 }
 /* more page */
